@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* MEng (BEng integrated) in Electrical and Electronic Engineering, Imperial College London, 2015-2019
+* M.Eng. (B.Eng. integrated) in Electrical and Electronic Engineering, Imperial College London, 2015-2019, First Class Honours
 * Ph.D in Electrical and Computer Engineering, UCLA, 2019-2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Summer Intern, Qualcomm Technologies Inc.
+  * Participated in a neural network accelerator design project and worked on the middleware design and development
+  * Developed a complete microcontroller program to control hardware modules and handle various execution modes
+  * Designed control flow to handle communication and synchronization between different hardware modules and guarantee correct execution sequence
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+Research experience
+======
+### Graduate Research Assistant, UCLA, 2019-present
   
 Skills
 ======
