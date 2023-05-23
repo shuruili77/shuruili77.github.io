@@ -25,20 +25,20 @@ Work experience
 
 Research experience
 ======
-### Graduate Research Assistant, NanoCAD Lab, UCLA, 2019-present
-  #### Architecture design of photonic neural network accelerators, ongoing
+### Graduate Student Researcher, NanoCAD Lab, UCLA, 2019-present
+#### Architecture design of photonic neural network accelerators, ongoing
   *	Work on system scaling analysis and parallelization strategies for free-space 4F optical neural network accelerators
   *	Design efficient architectures for on-chip photonic neural network accelerators with co-optimization of software and hardware (dataflow, reuse scheme, memory hierarchy, etc.)
   *	Develop custom performance simulators to estimate the system performance of different configurations
   *	Develop custom training functions with integrated hardware simulation models for different types of photonic neural networks
 
-  #### Deep learning on microcontrollers, completed
+#### Deep learning on microcontrollers, completed
   *	Proposed a software framework to compress and accelerate arbitrary precision neural networks on resource-constrained microcontrollers based on weight sharing, bit-serial computation, and lookup tables
   *	Designed and implemented a microcontroller runtime library for the proposed framework
   *	Implemented custom PyTorch functions for training neural networks with various weight-sharing techniques
 
 
-  #### Low-power deep learning accelerator design, completed
+#### Low-power deep learning accelerator design, completed
   * Proposed hardware accelerator architecture based on systolic array for low-power neural network inference that leverages bit-level sparsity
   *	Analyzed various trade-off between system performance and power efficiency
   *	Co-designed the software and hardware to achieve optimal efficiency-accuracy trade-off
