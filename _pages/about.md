@@ -14,5 +14,5 @@ redirect_from:
 
 My research
 ======
-Introduction of my research
+This website is still a work in progress. Please check back later for more information, thank you for your patience!
 
