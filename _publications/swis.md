@@ -2,9 +2,9 @@
 title: "SWIS--Shared Weight bIt Sparsity for Efficient Neural Network Acceleration"
 collection: publications
 permalink: /publication/swis
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'A systolic arrary design that implements bit-serial computation to remove multipliers and make the neural network execution more efficient.'
 date: 2021-03-01
-venue: 'Journal 1'
+venue: 'TinyML Research Symposium (TinyML)'
 paperurl: 'https://arxiv.org/pdf/2103.01308.pdf'
 citation: 'Li, S., Romaszkan, W., Graening, A. and Gupta, P., 2021. SWIS--Shared Weight bIt Sparsity for Efficient Neural Network Acceleration. arXiv preprint arXiv:2103.01308'
 ---
