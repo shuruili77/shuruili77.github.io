@@ -1,5 +1,5 @@
 ---
-title: "PhotoFourier: A Photonic Joint Transform Correlator-Based Neural Network Accelerator."
+title: "PhotoFourier: A Photonic Joint Transform Correlator-Based Neural Network Accelerator"
 collection: publications
 permalink: /publication/photofourier
 excerpt: 'An architecture paper for energy-efficient and high-performance JTC-based neural network accelerator.'

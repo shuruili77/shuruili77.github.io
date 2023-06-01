@@ -12,7 +12,8 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](https://proceedings.mlsys.org/paper_files/paper/2022/file/502e4a16930e414107ee22b6198c578f-Paper.pdf)
 
-Recommended citation: 
+BibTeX citation:  
+
 @inproceedings{MLSYS2022_502e4a16,
  author = {Li, Shurui and Gupta, Puneet},
  booktitle = {Proceedings of Machine Learning and Systems},
