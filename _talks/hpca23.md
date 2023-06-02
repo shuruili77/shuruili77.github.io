@@ -1,7 +1,7 @@
 ---
 title: "PhotoFourier: A Photonic Joint Transform Correlator-Based Neural Network Accelerator"
 collection: talks
-type: "Conference proceedings talk"
+type: "Oral presentation"
 permalink: /talks/hpca23
 venue: "HPCA 2023"
 date: 2023-02-27

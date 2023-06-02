@@ -1,7 +1,7 @@
 ---
 title: "SWIS – Shared Weight bIt Sparsity for Efficient Neural Network Acceleration"
 collection: talks
-type: "Talk"
+type: "Oral presentation"
 permalink: /talks/timyml21
 venue: "TinyML 2021"
 date: 2021-03-26
