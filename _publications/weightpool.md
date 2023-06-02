@@ -2,7 +2,7 @@
 title: "Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors"
 collection: publications
 permalink: /publication/weightpool
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper present a framework to compress neural networks and execute them with arbitrary precision on resource constrained processors through weight sharing, bit-serial computation, and look up tables. '
 date: 2022-01-25
 venue: 'Conference on Machine Learning and Systems (MLSys)'
 paperurl: 'https://proceedings.mlsys.org/paper_files/paper/2022/file/502e4a16930e414107ee22b6198c578f-Paper.pdf'

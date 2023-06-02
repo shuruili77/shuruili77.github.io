@@ -10,7 +10,7 @@ citation: 'Miscuglio, M., Hu, Z., Li, S., George, J.K., Capanna, R., Dalir, H., 
 ---
 The first work on real-time programmable DMD-based free-space optical neural network accelerator.
 
-[Download paper here](https://opg.optica.org/directpdfaccess/1e371d4f-0e6d-4dd4-8675b8d8e070b238_444948/optica-7-12-1812.pdf?da=1&id=444948&seq=0&mobile=no)
+[Download paper here](https://opg.optica.org/optica/fulltext.cfm?uri=optica-7-12-1812&id=444948)
 
 BibTeX citation: 
 
