@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome to my home page!"
-excerpt: "welcome"
+title: "Welcome to Shurui Li's home page!"
+excerpt: "Personal website of Shurui Li"
 author_profile: true
 redirect_from: 
   - /about/
