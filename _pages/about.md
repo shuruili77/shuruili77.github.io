@@ -14,16 +14,18 @@ redirect_from:
 Notes
 ======
 This website is still a work in progress and some pages may not be available or complete. Please check back later for more information, thank you for your patience!
-
+<!--  -->
 
 About myself
 ======
-Hello! I'm Shurui Li, currently pursuing my Ph.D. at NanoCAD Lab, UCLA where I'm diving deep into the fascinating world of Efficient Deep Learning, Optical Neural Network, and Computer Architecture. My academic journey began at Imperial College London, where I completed my M.Eng. and B.Eng. in Electrical and Electronic Engineering. Afterwards I joined UCLA as a Ph.D. student in Computer Engineering. 
+Hi there! I'm Shurui Li. I'm currently exploring the world of Efficient Deep Learning, Optical Neural Networks, and Computer Architecture while doing my Ph.D. at the NanoCAD Lab, UCLA. My adventure into this realm actually started at Imperial College London where I got my M.Eng. and B.Eng. in Electrical and Electronic Engineering. After that, I moved over to UCLA to start my Ph.D. journey in Computer Engineering.
 
-<!-- Here says my resarch lies in the intersection of optics, comupter architecture, and deep learning -->
+During my time at UCLA, I've been lucky to work on some really cool projects. A lot of them involve stuff like architecture design, performance modeling, and hardware-aware training of both free-space and on-chip optical neural networks. One of the other interesting things I've developed is a weight-sharing based neural network compression method. This has been really useful when I've tried to apply it to various deep learning hardware like digital CMOS, compute-in-memory devices, and even silicon photonics.
 
-I've been fortunate to share some of my research findings through publications and presentations at conferences. It's always a thrill to engage with the wider scientific community and learn from others in my field.
+Working at the intersection of deep learning, computer architecture, and optics has been quite a ride. I've learned a ton and I've been able to share some of it too through [publications](https://shuruili.com/publications/) and [conference presentations](https://shuruili.com/talks/). It's always a blast to engage with the larger scientific community and learn from others who are just as passionate about this stuff as I am.
 
-Beyond my research, I've found great joy in teaching and mentoring. I've organized a bootcamp for incoming UCLA computer engineering freshmen and volunteered as an instructor for the Los Angeles Computing Circle. It's been a privilege to share my passion for computer engineering with the next generation of learners.
+Outside of my research, I've also enjoyed teaching and mentoring. I've organized a bootcamp for the new computer engineering freshmen at UCLA and spent a couple of years as a volunteer instructor for the Los Angeles Computing Circle (LACC). Sharing my love for computer engineering with others has been a really rewarding part of my journey.
+
+So, that's a bit about me and what I do. Welcome to my website!
 
 
