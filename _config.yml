@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shurui's Home Page"
+title                    : "Shurui's personal website"
 title_separator          : "-"
 name                     : &name "Shurui Li"
 description              : &description "Shurui Li's Personal Website"
