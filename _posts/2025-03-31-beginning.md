@@ -4,13 +4,12 @@ date: 2025-03-31
 permalink: /posts/2025/03/aquietbeginning/
 sticky: true
 tags:
-  - cool posts
-  - category1
-  - category2
+  - preface
 ---
 
 
 A Quiet Beginning
+*A Note to Begin With*  
 ======
 
 This website began, like many others, as a place to collect and present my work — papers, projects, milestones along the way. For a long time, that felt like enough.
@@ -24,7 +23,7 @@ Questions without experiments.
 Ideas without citations.  
 Moments of clarity or confusion that live outside of any technica framework.
 
-So this blog begins — not as a declaration, but as a quiet note.  
+So this blog begins — not as a declaration, but as a quiet note to myself.  
 A space for the thoughts that linger.  
 A corner where I can be curious without optimizing for outcome.  
 A place that feels like mine.
@@ -34,6 +33,7 @@ A place that feels like mine.
 
 **Just a small note before we go any further:**  
 > *Everything here is personal, exploratory, and unfinished. These posts reflect a particular moment in my thinking — not a fixed belief or universal claim. I write not to teach, but to trace.*  
+> *I use AI tools to help me polish my writing.*
 > *Nothing here is peer-reviewed, polished for clarity, or guaranteed to hold up over time — and that’s precisely the point.*
 
 ---
@@ -62,7 +62,7 @@ Let’s see where this goes.
 有些时刻，清晰也好，迷茫也好，都没有必要被“框架”定义。
 
 所以，就从这里开始吧。不是宣言，也不是计划。
-只是一些安静的记录。
+只是一份写给我自己的记录。
 写下一些飘忽的思绪，留住那些可能很快就会被遗忘的瞬间。
 在这里，我不需要优化任何产出，也不必证明什么。
 这，是一个我可以安静下来的地方，属于我自己的地方。
@@ -71,6 +71,7 @@ Let’s see where this goes.
 
 **在继续之前，想先说明**：
 >这里的一切都是私人的、探索性的、未完成的。这些文字仅代表我某个时刻的思考 —— 而非固定信念或普世真理。我写作不是为了去教导什么，而是为了记录。
+>我会使用AI工具来帮助我润色文章。
 >没有经过同行评审，没有雕琢得清晰完美，也不保证经得起时间考验 —— 但这恰恰是这里的意义所在。
 
 ---

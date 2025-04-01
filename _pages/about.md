@@ -20,6 +20,6 @@ My [research](https://shuruili.com/publications/) spanned architecture design, p
 
 Now, I’m working at Waymo, focusing on machine learning performance optimization at scale. It’s a new chapter—less about theory, more about impact—but the underlying curiosity remains the same.
 
-Working at the crossroads of machine learning, systems, and photonics has been a technical adventure — but for me, it’s also been a philosophical one. I’ve become increasingly fascinated by the nature of intelligence and the mind — not just how to build them, but what they mean. Some of my recent thoughts explore the boundary between self and system, the fabric of perception, and the quiet question of what it means to "exist" in a world increasingly shaped by algorithms. You’ll find some of those musings scattered in my personal blog here, slowly growing as time allows.
+Working at the crossroads of machine learning, systems, and photonics has been a technical adventure — but for me, it’s also been a philosophical one. I’ve become increasingly fascinated by the nature of intelligence and the mind — not just how to build them, but what they mean. Some of my recent thoughts explore the boundary between self and system, the fabric of perception, and the quiet question of what it means to "exist" in a world increasingly shaped by algorithms. You’ll find some of those musings scattered in my personal blog [here](https://shuruili.com/pblogs/), slowly growing as time allows.
 
 Thanks for stopping by, and welcome to this small corner of my mind.

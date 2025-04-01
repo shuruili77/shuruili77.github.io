@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shurui's personal website"
+title                    : "Shurui's personal space"
 title_separator          : "-"
-name                     : &name "Shurui Li"
+name                     : &name "Shurui Li, Ph.D."
 description              : &description "Shurui Li's Personal Website"
 url                      : "https://shuruili.com"  #https://shuruili77.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shurui Li"
   avatar           : "yosemite_pic.jpg"
-  bio              : "Machine Learning Performance Engineer at Waymo | Ph.D. UCLA | Deep Learning compiler and architecture, Neural network compression, Optical Neural Networks"
+  bio              : "Machine Learning Performance Engineer at Waymo | Ph.D. UCLA | Deep Learning compiler and architecture, Neural network compression, Optical neural networks"
   location         : "Bay Area, CA"
   employer         :
   pubmed           : 
