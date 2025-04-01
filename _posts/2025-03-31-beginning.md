@@ -8,8 +8,7 @@ tags:
 ---
 
 
-A Quiet Beginning
-*A Note to Begin With*  
+# A Note to Begin With
 
 ======
 
