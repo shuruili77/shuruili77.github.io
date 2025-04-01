@@ -11,21 +11,15 @@ redirect_from:
 [//]: # (This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).)
 
 
-A kind reminder
-======
-This website is still a work in progress and some pages may not be available or complete. Please check back later for more information, thank you for your patience!
-<!--  -->
 
 About myself
 ======
-Hi there! I'm Shurui Li. I'm currently exploring the world of Efficient Deep Learning, Optical Neural Networks, and Computer Architecture while doing my Ph.D. at the NanoCAD Lab, UCLA. My adventure into this realm actually started at Imperial College London where I got my M.Eng. and B.Eng. in Electrical and Electronic Engineering. After that, I moved over to UCLA to start my Ph.D. journey in Computer Engineering.
+Hi there! I’m Shurui Li. I recently completed my Ph.D. in Computer Engineering at UCLA, where I explored the intersection of Efficient Deep Learning, Optical Neural Networks, and Computer Architecture as part of the NanoCAD Lab. Before that, I earned my M.Eng. and B.Eng. degrees from Imperial College London in Electrical and Electronic Engineering—so I guess you could say my journey has always revolved around light and logic, in more ways than one.
 
-During my time at UCLA, I've been lucky to work on some really cool projects. A lot of them involve stuff like architecture design, performance modeling, and hardware-aware training of both free-space and on-chip optical neural networks. One of the other interesting things I've developed is a weight-sharing based neural network compression method. This has been really useful when I've tried to apply it to various deep learning hardware like digital CMOS, compute-in-memory devices, and even silicon photonics.
+My [research](https://shuruili.com/publications/) spanned architecture design, performance modeling, and hardware-aware training, particularly in the context of both free-space and on-chip optical neural networks. I also developed a weight-sharing based neural network compression method, which proved effective across various hardware platforms, including digital CMOS, compute-in-memory systems, and silicon photonics.
 
-Working at the intersection of deep learning, computer architecture, and optics has been quite a ride. I've learned a ton and I've been able to share some of it too through [publications](https://shuruili.com/publications/) and [conference presentations](https://shuruili.com/talks/). It's always a blast to engage with the larger scientific community and learn from others who are just as passionate about this stuff as I am.
+Now, I’m working at Waymo, focusing on machine learning performance optimization at scale. It’s a new chapter—less about theory, more about impact—but the underlying curiosity remains the same.
 
-Outside of my research, I've also enjoyed teaching and mentoring. I've organized a bootcamp for the new computer engineering freshmen at UCLA and spent a couple of years as a volunteer instructor for the Los Angeles Computing Circle (LACC). Sharing my love for computer engineering with others has been a really rewarding part of my journey.
+Working at the crossroads of machine learning, systems, and photonics has been a technical adventure — but for me, it’s also been a philosophical one. I’ve become increasingly fascinated by the nature of intelligence and the mind — not just how to build them, but what they mean. Some of my recent thoughts explore the boundary between self and system, the fabric of perception, and the quiet question of what it means to "exist" in a world increasingly shaped by algorithms. You’ll find some of those musings scattered in my personal blog here, slowly growing as time allows.
 
-So, that's a bit about me and what I do. Welcome to my website!
-
-
+Thanks for stopping by, and welcome to this small corner of my mind.
