@@ -10,8 +10,8 @@ tags:
 
 
 A Quiet Beginning
-
 ======
+
 This website began, like many others, as a place to collect and present my work — papers, projects, milestones along the way. For a long time, that felt like enough.
 
 But recently, I’ve started to feel a quiet shift.
@@ -21,7 +21,7 @@ I find myself returning to this space not just to show what I’ve done, but to 
 There are things I want to explore that don’t belong in a paper.  
 Questions without experiments.  
 Ideas without citations.  
-Moments of clarity or confusion that live outside of any technical framework.
+Moments of clarity or confusion that live outside of any technica framework.
 
 So this blog begins — not as a declaration, but as a quiet note.  
 A space for the thoughts that linger.  
@@ -61,7 +61,7 @@ Let’s see where this goes.
 有些时刻，清晰也好，迷茫也好，都没有必要被“框架”定义。
 
 所以，就从这里开始吧。不是宣言，也不是计划。
-只是一份安静的记录。
+只是一些安静的记录。
 写下一些飘忽的思绪，留住那些可能很快就会被遗忘的瞬间。
 在这里，我不需要优化任何产出，也不必证明什么。
 这，是一个我可以安静下来的地方，属于我自己的地方。
@@ -79,5 +79,6 @@ Let’s see where this goes.
 
 而这里的某一句话、某个片段，刚好触碰到了你——哪怕只是那么一点点，
 那我也会由衷地觉得，很高兴你来过。
+
 谢谢你读到这里。
 我们就一起看看，这些碎片，会走向哪里吧。

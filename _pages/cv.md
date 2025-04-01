@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, UCLA, 2019-2024 (expected)
+* Ph.D in Electrical and Computer Engineering, UCLA, 2019-2024, Distinguished Ph.D. Dissertation Award
 * M.Eng. (B.Eng. integrated) in Electrical and Electronic Engineering with Management, Imperial College London, 2015-2019, First Class Honours
 
 
@@ -44,6 +44,15 @@ Research experience
 
 Work experience
 ======
+### Machine Learning Performance Engineer, Waymo, 2024-present
+* Optimize the performance of machine learning models across the stack
+
+### Summer Intern, Qualcomm, summer 2023
+*	Worked on performance modeling and optimization of large language model (LLM) workloads on the AIC 100 inference accelerator.
+*	Designed and implemented a memory simulator that models SRAM usage, memory spilling, and total DDR traffic for large language models.
+*	Proposed several memory optimization methods to mitigate memory spilling and reduce total DDR traffic as model size, sequence length, and batch size increase.
+
+
 ### Summer Intern, Qualcomm, summer 2020
 * Participated in a neural network accelerator design project and worked on the middleware design and development
 * Developed a complete microcontroller program to control hardware modules and handle various execution modes
@@ -52,7 +61,7 @@ Work experience
 Skills
 ======
 *	Programming languages: Python, C/C++, Verilog HDL, JAVA, assembly language, PHP
-* Software: PyTorch, Tensorflow, ModelSim, Cadence Genus, Cadence Innovus, Cadence Virtuoso, MATLAB, Android Studio, MS Office
+* Software/Frameworks: MLIR, PyTorch, Tensorflow, JAX, ModelSim, Cadence Genus, Cadence Innovus, Cadence Virtuoso, MATLAB
 * Languages: English (fluent), Mandarin (native)
 
 Service and leadership
