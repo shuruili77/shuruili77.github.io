@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, UCLA, 2019-2024, Distinguished Ph.D. Dissertation Award
-* M.Eng. (B.Eng. integrated) in Electrical and Electronic Engineering with Management, Imperial College London, 2015-2019, First Class Honours
+* Ph.D in Electrical and Computer Engineering, UCLA, 2019-2024, **Distinguished Ph.D. Dissertation Award**
+* M.Eng. (B.Eng. integrated) in Electrical and Electronic Engineering with Management, Imperial College London, 2015-2019, **First Class Honours**
 
 
 
