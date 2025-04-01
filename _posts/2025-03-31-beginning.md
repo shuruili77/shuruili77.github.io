@@ -32,9 +32,9 @@ A place that feels like mine.
 ---
 
 **Just a small note before we go any further:**  
-> *Everything here is personal, exploratory, and unfinished. These posts reflect a particular moment in my thinking — not a fixed belief or universal claim. I write not to teach, but to trace.*  
-> *I use AI tools to help me polish my writing.*
-> *Nothing here is peer-reviewed, polished for clarity, or guaranteed to hold up over time — and that’s precisely the point.*
+>- *Everything here is personal, exploratory, and unfinished. These posts reflect a particular moment in my thinking — not a fixed belief or universal claim. I write not to teach, but to trace.*  
+>- *I use AI to help me polish my writing.*
+>- *Nothing here is peer-reviewed, polished for clarity, or guaranteed to hold up over time — and that’s precisely the point.*
 
 ---
 
@@ -46,7 +46,7 @@ Thank you for reading.
 Let’s see where this goes.
 
 
-安静的起点
+写在最开始的话
 ======
 
 这片空间，最初只是为了整理和展示我的研究成果——论文、项目、一些阶段性的节点。那时候，我以为这些就已经足够了。
@@ -70,9 +70,9 @@ Let’s see where this goes.
 ---
 
 **在继续之前，想先说明**：
->这里的一切都是私人的、探索性的、未完成的。这些文字仅代表我某个时刻的思考 —— 而非固定信念或普世真理。我写作不是为了去教导什么，而是为了记录。
->我会使用AI工具来帮助我润色文章。
->没有经过同行评审，没有雕琢得清晰完美，也不保证经得起时间考验 —— 但这恰恰是这里的意义所在。
+>- 这里的一切都是私人的、探索性的、未完成的。这些文字仅代表我某个时刻的思考 —— 而非固定信念或普世真理。我写作不是为了去教导什么，而是为了记录。
+>- 我会用AI来帮助我润色文章。
+>- 没有经过同行评审，没有雕琢得清晰完美，也不保证经得起时间考验 —— 但这恰恰是这里的意义所在。
 
 ---
 
