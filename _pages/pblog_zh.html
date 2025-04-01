@@ -1,0 +1,40 @@
+---
+layout: archive
+permalink: /pblogs_zh/
+title: "意识碎片"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+
+{% include base_path %}
+
+{%- comment -%}
+  先筛选出所有 lang 为 zh 的中文文章
+{%- endcomment -%}
+{% assign zh_posts = site.posts | where:"lang", "zh" %}
+
+{%- comment -%}
+  先展示置顶的文章（在 Front Matter 中添加 sticky: true）
+{%- endcomment -%}
+{% assign sticky_posts = zh_posts | where:"sticky", true %}
+{% if sticky_posts.size > 0 %}
+  <h2 class="archive__subtitle">置顶</h2>
+  {% for post in sticky_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+{%- comment -%}
+  再展示非置顶文章，按年份归类
+{%- endcomment -%}
+{% assign nonsticky_posts = zh_posts | where_exp:"post", "post.sticky != true" %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in nonsticky_posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}

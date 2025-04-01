@@ -2,6 +2,7 @@
 title: 'A Quiet Beginning'
 date: 2025-03-31
 permalink: /posts/2025/03/aquietbeginning/
+lang: en
 sticky: true
 tags:
   - preface
