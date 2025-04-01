@@ -10,6 +10,7 @@ tags:
 
 A Quiet Beginning
 *A Note to Begin With*  
+
 ======
 
 This website began, like many others, as a place to collect and present my work — papers, projects, milestones along the way. For a long time, that felt like enough.
