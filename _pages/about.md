@@ -16,9 +16,9 @@ About myself
 ======
 Hi there! I’m Shurui Li. I recently completed my Ph.D. in Computer Engineering at UCLA, where I explored the intersection of Efficient Deep Learning, Optical Neural Networks, and Computer Architecture as part of the NanoCAD Lab. Before that, I earned my M.Eng. and B.Eng. degrees from Imperial College London in Electrical and Electronic Engineering—so I guess you could say my journey has always revolved around light and logic, in more ways than one.
 
-My [research](https://shuruili.com/publications/) spanned architecture design, performance modeling, and hardware-aware training, particularly in the context of both free-space and on-chip optical neural networks. I also developed a weight-sharing based neural network compression method, which proved effective across various hardware platforms, including digital CMOS, compute-in-memory systems, and silicon photonics.
+My [research](https://shuruili.com/publications/) spanned architecture design, performance modeling, and hardware-aware training, particularly in the context of ASIC deep learing accelerators and on-chip optical neural networks. I also developed a weight-sharing based neural network compression method, which proved effective across various hardware platforms, including digital CMOS, compute-in-memory systems, and silicon photonics.
 
-Now, I’m working at Waymo, focusing on machine learning performance optimization at scale. It’s a new chapter—less about theory, more about impact—but the underlying curiosity remains the same.
+Now, I’m working at Waymo, focusing on optimizing machine learning performance across the stack. It’s a new chapter for me — less about theory, more about impact — but the underlying curiosity remains the same.
 
 Working at the crossroads of machine learning, systems, and photonics has been a technical adventure — but for me, it’s also been a philosophical one. I’ve become increasingly fascinated by the nature of intelligence and the mind — not just how to build them, but what they mean. Some of my recent thoughts explore the boundary between self and system, the fabric of perception, and the quiet question of what it means to "exist" in a world increasingly shaped by algorithms. You’ll find some of those musings scattered in my personal blog [here](https://shuruili.com/pblogs/), slowly growing as time allows.
 
