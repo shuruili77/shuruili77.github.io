@@ -1,7 +1,7 @@
 ---
 title: '我即世界，世界即我(?)'
 date: 2025-04-01
-permalink: /posts/2025/04/solipsism2/
+permalink: /posts/2025/04/solipsism2_zh/
 lang: zh
 tags:
   - solipsism

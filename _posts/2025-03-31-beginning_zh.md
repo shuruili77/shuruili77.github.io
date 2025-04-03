@@ -1,7 +1,7 @@
 ---
 title: '起点'
 date: 2025-03-31
-permalink: /posts/2025/03/aquietbeginning/
+permalink: /posts/2025/03/aquietbeginning_zh/
 lang: zh
 sticky: true
 tags:

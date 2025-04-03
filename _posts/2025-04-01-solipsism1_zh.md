@@ -1,7 +1,7 @@
 ---
 title: '谁在为我构建幻觉？'
 date: 2025-04-01
-permalink: /posts/2025/04/solipsism1/
+permalink: /posts/2025/04/solipsism1_zh/
 lang: zh
 tags:
   - solipsism
