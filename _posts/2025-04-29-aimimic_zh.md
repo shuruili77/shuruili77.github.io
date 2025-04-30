@@ -1,5 +1,5 @@
 ---
-title: '完美拟人”的AI，正在把我们逼进唯我论的死角'
+title: '"完美拟人"的AI，正在把我们逼进唯我论的死角'
 date: 2025-04-29
 permalink: /posts/2025/04/aimimic_zh/
 lang: zh
