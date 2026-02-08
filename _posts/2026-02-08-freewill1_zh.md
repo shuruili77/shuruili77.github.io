@@ -2,6 +2,7 @@
 title: '"自由意志"，也许我们从来就不需要这个词'
 date: 2026-02-08
 permalink: /posts/2026/02/freewill1_zh/
+lang: zh
 tags:
   - freewill
 ---
