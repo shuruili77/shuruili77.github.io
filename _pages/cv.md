@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 <div class="cv-education-timeline" markdown="1">
-* **Ph.D. in Electrical and Computer Engineering** | UCLA <span class="cv-date">2019 - 2024</span>
+* **Ph.D. in Electrical and Computer Engineering**, UCLA <span class="cv-date">2019 - 2024</span>
   * *Distinguished Ph.D. Dissertation Award*
-* **M.Eng. in Electrical and Electronic Engineering with Management** | Imperial College London <span class="cv-date">2015 - 2019</span>
+* **M.Eng. in Electrical and Electronic Engineering with Management**, Imperial College London <span class="cv-date">2015 - 2019</span>
   * *First Class Honours (B.Eng. integrated)*
 </div>
 
