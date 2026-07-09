@@ -47,24 +47,24 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #71717a; /* zinc-500 */
-$dark-gray                  : #3f3f46; /* zinc-700 */
-$darker-gray                : #18181b; /* zinc-900 */
-$light-gray                 : #d4d4d8; /* zinc-300 */
-$lighter-gray               : #f4f4f5; /* zinc-100 */
+$gray                       : #71717a;
+$dark-gray                  : #3f3f46;
+$darker-gray                : #18181b;
+$light-gray                 : #d4d4d8;
+$lighter-gray               : #f4f4f5;
 
-$body-color                 : #fdfcfb; /* warm background */
+$body-color                 : #fdfcfb;
 $background-color           : #fdfcfb;
 $code-background-color      : #f4f4f5;
 $code-background-color-dark : $light-gray;
-$text-color                 : #27272a; /* zinc-800 */
-$border-color               : #e4e4e7; /* zinc-200 */
+$text-color                 : #27272a;
+$border-color               : #e4e4e7;
 
-$primary-color              : #2b3e50; /* systems slate blue */
-$success-color              : #10b981; /* emerald-500 */
-$warning-color              : #f59e0b; /* amber-500 */
-$danger-color               : #ef4444; /* red-500 */
-$info-color                 : #c78c1e; /* amber-700 (light accent) */
+$primary-color              : #2b3e50;
+$success-color              : #10b981;
+$warning-color              : #f59e0b;
+$danger-color               : #ef4444;
+$info-color                 : #c78c1e;
 
 /* brands */
 $behance-color              : #1769FF;
