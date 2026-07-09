@@ -270,3 +270,40 @@ blockquote {
   background-color: #fdfcfb !important;
   color: #71717a !important;
 }
+
+/* Responsive Sidebar Layout Adjustments (Make sidebar wider on desktop) */
+@include breakpoint($large) {
+  .sidebar {
+    @include span(3 of 12);
+    padding: 1.3em !important;
+  }
+  
+  .page {
+    @include span(9 of 12 last);
+    @include prefix(0.25 of 12);
+    @include suffix(0.75 of 12);
+  }
+  
+  .archive {
+    @include span(9 of 12 last);
+    @include prefix(0.25 of 12);
+  }
+}
+
+@include breakpoint($x-large) {
+  .sidebar {
+    @include span(3 of 12);
+    padding: 1.5em !important;
+  }
+  
+  .page {
+    @include span(9 of 12 last);
+    @include prefix(0.25 of 12);
+    @include suffix(0.75 of 12);
+  }
+  
+  .archive {
+    @include span(9 of 12 last);
+    @include prefix(0.25 of 12);
+  }
+}
