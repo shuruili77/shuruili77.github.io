@@ -509,3 +509,92 @@ blockquote {
     }
   }
 }
+}
+
+/* ==========================================================================
+   Blog Card Enhancements (Sticky, Pinned Badge, Tags)
+   ========================================================================== */
+
+/* Pinned Post Visual Highlights */
+.archive__item--sticky {
+  border-left: 4px solid #c78c1e !important; // golden border on the left to denote pin
+  background: linear-gradient(135deg, #ffffff, #fffdfa) !important; // subtle warm gradient
+  box-shadow: 0 4px 20px -3px rgba(199, 140, 30, 0.05), 0 2px 6px -2px rgba(0, 0, 0, 0.02) !important;
+  
+  &:hover {
+    box-shadow: 0 16px 32px -8px rgba(199, 140, 30, 0.1), 0 6px 16px -4px rgba(0, 0, 0, 0.03) !important;
+    border-color: rgba(199, 140, 30, 0.5) !important;
+  }
+}
+
+.archive__item {
+  position: relative; // crucial for absolute positioning of pinned-badge
+}
+
+.pinned-badge {
+  position: absolute;
+  top: 1.2em;
+  right: 1.5em;
+  background-color: rgba(199, 140, 30, 0.08);
+  color: #c78c1e;
+  border: 1px solid rgba(199, 140, 30, 0.2);
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 0.72em;
+  font-weight: 600;
+  font-family: "Outfit", sans-serif;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  line-height: 1.2;
+}
+
+/* Minimalist metadata (Date & Read time unified line) */
+.archive__item-meta {
+  font-size: 0.8em !important;
+  color: #71717a !important; // zinc-500
+  margin-top: 0.2em;
+  margin-bottom: 0.8em;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  
+  .meta-separator {
+    color: #d4d4d8;
+    margin: 0 2px;
+  }
+  
+  i {
+    font-size: 0.9em;
+    color: #a1a1aa;
+  }
+}
+
+/* Blog Post List Tags */
+.archive__item-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 1em;
+  border-top: 1px dashed rgba(228, 228, 230, 0.6);
+  padding-top: 10px;
+}
+
+.archive__tag {
+  font-family: "Inter", sans-serif;
+  font-size: 0.72em !important;
+  font-weight: 500;
+  color: #52525b; // zinc-600
+  background-color: #f4f4f5; // zinc-100
+  padding: 3px 8px;
+  border-radius: 4px;
+  border: 1px solid #e4e4e7;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    background-color: #2b3e50;
+    color: #ffffff;
+    border-color: #2b3e50;
+    cursor: pointer;
+  }
+}
